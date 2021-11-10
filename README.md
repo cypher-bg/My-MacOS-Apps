@@ -15,7 +15,7 @@ C.
 > I'll be using this repo & README.md to learn how to use git as well, so be patient and have a cold one.
 
 #### Git README markup help ####
-===================
+#### =================== ####
 
 So, for starters, I used the official **GitHub** documentation to generate this file.
 
