@@ -27,6 +27,8 @@ Oh, and for emojis the [emoji cheat sheet](https://www.webfx.com/tools/emoji-che
 
 **TBD**
 
-#### GUI Apps
+#### Productivity Apps
 
-Here's a list of the apps that I've installed and have a **GUI**
+Here's a list of the apps that I've installed and make my life easier.
+
+[Alt Tab for MacOs](https://alt-tab-macos.netlify.app/) - this app mimics the behaviour of Alt+Tab from Windows.
