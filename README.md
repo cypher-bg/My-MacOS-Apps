@@ -16,6 +16,7 @@ C.
 
 #### Git README markup help ####
 ---
+===
 
 So, for starters, I used the official **GitHub** documentation to generate this file.
 
