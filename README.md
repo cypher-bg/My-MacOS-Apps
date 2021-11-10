@@ -1,5 +1,4 @@
-My MacOS Apps
-# Description
+# My MacOS Apps
 
 Welcome to my repo!
 
@@ -12,3 +11,5 @@ Hope you find something of use.
 Cheers,
 
 C.
+
+> I'll be using this repo & README.md to learn how to use git as well, so be patient and have a cold one.
