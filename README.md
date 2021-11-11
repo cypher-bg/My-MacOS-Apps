@@ -41,3 +41,8 @@ Oh, and for emojis the [emoji cheat sheet](https://www.webfx.com/tools/emoji-che
 
 [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - despite the name, this is a keep-awake app for MacOS.
 
+[iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
+
+[oh-my-zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+
+Still looking for a clipboard app.
