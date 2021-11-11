@@ -23,6 +23,8 @@ Also, the [markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet/bl
 
 Oh, and for emojis the [emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
 
+### Table Of Contents
+
 #### App List
 ---
 
